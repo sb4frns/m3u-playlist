@@ -9,8 +9,8 @@ http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 group-title=" Sports" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
-https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
+#EXTINF:-1 group-title=" Sports" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow Sports 1
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7058af1b60fb3bcfd7f687bf5b7866aa
 
 #EXTINF:-1 group-title=" Sports" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports 2
 https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
