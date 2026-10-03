@@ -138,9 +138,9 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2 HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi HD (1080p)
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports Ten 4 Telugu (1080p)
